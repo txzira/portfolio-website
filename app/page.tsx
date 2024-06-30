@@ -5,12 +5,7 @@ import About from "./components/About";
 
 export default function Home() {
   return (
-    <main
-      className="d-flex flex-column flex-1 w-100 h-100 p-5 gap-5 overflow-y-scroll"
-      style={{
-        background:
-          "linear-gradient(325deg, rgba(34,97,195,1) 10%, rgba(253,195,45,1) 100%)",
-      }}>
+    <>
       <div
         id="about"
         className="container w-100 bg-light rounded shadow"
@@ -81,6 +76,6 @@ export default function Home() {
         style={{ height: "max-content" }}>
         <Contact />
       </div>
-    </main>
+    </>
   );
 }

@@ -28,9 +28,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="d-flex flex-column vw-100 vh-100">
+      <body
+        className="d-flex flex-column vw-100 vh-100"
+        style={{
+          background:
+            "linear-gradient(325deg, rgba(34,97,195,1) 10%, rgba(253,195,45,1) 100%)",
+        }}>
         <Navbar />
-        {children}
+        <main className="d-flex flex-column flex-1 w-100 h-100 p-5 gap-5 overflow-y-scroll">
+          {children}
+          <footer className="text-center text-light">
+            Developed with NextJs and Bootstrap
+          </footer>
+        </main>
       </body>
     </html>
   );
