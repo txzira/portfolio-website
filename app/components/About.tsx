@@ -19,7 +19,7 @@ const About = () => {
         <p>
           Hello vistor, my name is Ronnie Ayers and I specialize in frontend
           development creating responsive and user-friendly ecommerce websites
-          that look perform across various devices and browsers.
+          that perform across various devices and browsers.
         </p>
         <p>
           I have a strong foundation in HTML, CSS, and JavaScript, which allows
