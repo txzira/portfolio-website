@@ -18,17 +18,18 @@ const About = () => {
         </div>
         <p>
           Hello vistor, my name is Ronnie Ayers and I specialize in frontend
-          development creating responsive and user-friendly websites that look
-          great and perform across various devices and browsers.
+          development creating responsive and user-friendly ecommerce websites
+          that look perform across various devices and browsers.
         </p>
         <p>
           I have a strong foundation in HTML, CSS, and JavaScript, which allows
           me to create interactive user interfaces. I&apos;m experienced in
-          leveraging frameworks and libraries like Angular and React.js (NextJs)
-          to build dynamic single-page applications (SPAs) that enhance user
-          engagement and experience. My developer knowledge extends to backend
-          technologies such as Node.js, enabling me to develop robust
-          server-side logic and APIs that power web applications.
+          leveraging frameworks like Angular and React.js (NextJs) and
+          third-party libraries to build dynamic single-page applications (SPAs)
+          that enhance user engagement and experience. My developer knowledge
+          extends to backend technologies such as Node.js, Prisma ORM, and SQL,
+          enabling me to develop server-side logic and APIs that power my web
+          applications.
         </p>
         <p>
           Coding is a never ending puzzle in my eyes and thus a never ending
